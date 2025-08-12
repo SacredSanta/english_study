@@ -131,8 +131,8 @@
         "class-kor" : "ㄱ",
         "class-eng" : "b",
         "mean" : "건배",
-        "ex-kor" : "사람들이 모두 술잔을 들자, 호스트가 '건배'하고 말했다.",
-        "ex-eng" : "They all raised their glasses, and the host said, 'Bottoms up!'"
+        "ex-kor" : "사람들이 모두 술잔을 들자, 호스트가 (건배)하고 말했다.",
+        "ex-eng" : "They all raised their glasses, and the host said, (Bottoms up!)"
     },
 
     "couch potato" : {
