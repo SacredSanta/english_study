@@ -61,22 +61,6 @@
         "mean" : "감이 잡히게 하다",
         "ex-kor" : "세탁소를 한다고 하던데, 혹시 생각이 나십니까?",
         "ex-eng" : "He owns a laundry shop. Does that ring a bell?"
-    },
-
-    "vanish into thin air" : {
-        "class-kor" : "ㄱ",
-        "class-eng" : "v",
-        "mean" : "감쪽같이 사라지다",
-        "ex-kor" : "Lee를 못 본 지 2년이나 됐네. 그야말로 감쪽같이 사라진 것 같아.",
-        "ex-eng" : "I haven't seen Lee for two years. He seems to have just vanished into thin air."
-    },
-
-    "have the nerve to do something" : {
-        "class-kor" : "ㄱ",
-        "class-eng" : "h",
-        "mean" : "감히 ~ 하다",
-        "ex-kor" : "",
-        "ex-eng" : ""
     }
 
 
