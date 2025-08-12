@@ -53,6 +53,95 @@
         "mean" : "갈라서다",
         "ex-kor" : "그는 7년간 결혼 생활을 해온 그의 아내와 갈라섰다.",
         "ex-eng" : "He split with his wife of seven years of marriage."
+    },
+
+    "ring a bell" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "r",
+        "mean" : "감이 잡히게 하다",
+        "ex-kor" : "세탁소를 한다고 하던데, 혹시 생각이 나십니까?",
+        "ex-eng" : "He owns a laundry shop. Does that ring a bell?"
+    },
+
+    "vanish into thin air" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "v",
+        "mean" : "감쪽같이 사라지다",
+        "ex-kor" : "Lee를 못 본 지 2년이나 됐네. 그야말로 감쪽같이 사라진 것 같아.",
+        "ex-eng" : "I haven't seen Lee for two years. He seems to have just vanished into thin air."
+    },
+
+    "have the nerve to do something" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "h",
+        "mean" : "감히 ~ 하다",
+        "ex-kor" : "",
+        "ex-eng" : ""
+    },
+
+    "in the same boat" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "i",
+        "mean" : "같은 처지",
+        "ex-kor" : "어디 자네뿐인가? 우리가 모두 같은 처지인데. 그러니 그만 투덜거리게.",
+        "ex-eng" : "You're not alone. We are all in the same boat. So stop complaining."
+    },
+
+    "pooch" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "p",
+        "mean" : "개(slang)",
+        "ex-kor" : "자, 이리와 멍멍아. 옳지, 착하다.",
+        "ex-eng" : "Here, pooch. Ah, that's a good boy."
+    },
+
+    "be stuck-up" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "b",
+        "mean" : "거만하다",
+        "ex-kor" : "전에는 그 여자가 거만하다고 생각했는데, 그 여자를 알게 되고 나서는 수줍어서 그런 것뿐임을 알게 되었다.",
+        "ex-eng" : "I had always thought she was stuck-up, but once I got to know her I realized that she was only shy."
+    },
+
+    "long shot" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "l",
+        "mean" : "거의 가망이 없는 일",
+        "ex-kor" : "거의 가망 없는 일이긴 하지만, 할 수 있는 한 열심히 공부하면 혹시 하버드대학교에 들어갈 수 있을지 모르지.",
+        "ex-eng" : "It's a long shot, but if you study hard enough you just might get into Harvard University."
+    }
+,
+      
+    "on the house" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "o",
+        "mean" : "거저(돈을 안 받는)",
+        "ex-kor" : "우리 가게에서 물건을 사주셔서 감사합니다. 이것은 그냥 드리는 겁니다.",
+        "ex-eng" : "Thank you for shopping at our store. It's on the house."
+    },
+
+    "medical checkup" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "m",
+        "mean" : "건강검진",
+        "ex-kor" : "오늘 건강검진을 받으려고 병원에 갔었는데 그들은 다음 주에 하자고 미루었다.",
+        "ex-eng" : "I went to the hospital today for a medical checkup but they put me off till next week."
+    },
+
+    "bottoms up" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "b",
+        "mean" : "건배",
+        "ex-kor" : "사람들이 모두 술잔을 들자, 호스트가 (건배)하고 말했다.",
+        "ex-eng" : "They all raised their glasses, and the host said, (Bottoms up!)"
+    },
+    
+"couch potato" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "c",
+        "mean" : "게으른 사람(TV만 보는)",
+        "ex-kor" : "TV에 미친 사람에게 주는 상이 있다면, 내 남편이 타게 될 거야.",
+        "ex-eng" : "If there were a prize for the best couch potato, my husband would win it."
     }
 
 
