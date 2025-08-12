@@ -1,0 +1,35 @@
+{
+    "mark down" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "m",
+        "mean" : "가격을 인하하다",
+        "ex-kor" : "여성용 모자는 좀 비쌉니다. 하지만, 때가 타면 가격을 내려야 하죠.",
+        "ex-eng" : "The ladies' hats are kind of expensive. But when they get dirty, we have to mark them down."
+    },
+
+    "have butterflies in one's stomach" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "h",
+        "mean" : "가슴이 두근거리다",
+        "ex-kor" : "비자 인터뷰를 할 때 가슴이 두근거렸다.",
+        "ex-eng" : "I had butterflies in my stomach at the visa interview."
+    },
+    
+    "to go" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "t",
+        "mean" : "가지고 가다(포장해서)",
+        "ex-kor" : "가지고 가실 거에요, 아니면 여기서 드실 거에요?",
+        "ex-eng" : "To go, or eat here?"
+    },
+
+    "on hand" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "o",
+        "mean" : "가지고 있는(마침)",
+        "ex-kor" : "그 여자는 가지고 있는 천으로 기저귀를 만들었다.",
+        "ex-eng" : "She made a diaper from cloth that was on hand."
+    }
+
+
+}
