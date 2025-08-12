@@ -125,15 +125,7 @@
         "mean" : "건강검진",
         "ex-kor" : "오늘 건강검진을 받으려고 병원에 갔었는데 그들은 다음 주에 하자고 미루었다.",
         "ex-eng" : "I went to the hospital today for a medical checkup but they put me off till next week."
-    },
-
-    "bottoms up" : {
-        "class-kor" : "ㄱ",
-        "class-eng" : "b",
-        "mean" : "건배",
-        "ex-kor" : "사람들이 모두 술잔을 들자, 호스트가 (건배)하고 말했다.",
-        "ex-eng" : "They all raised their glasses, and the host said, (Bottoms up!)"
-    },
+    }
 
 
 }
