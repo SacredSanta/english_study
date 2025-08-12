@@ -29,7 +29,46 @@
         "mean" : "가지고 있는(마침)",
         "ex-kor" : "그 여자는 가지고 있는 천으로 기저귀를 만들었다.",
         "ex-eng" : "She made a diaper from cloth that was on hand."
-    }
+    },
 
+    "go Dutch" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "g",
+        "mean" : "각자 부담하다(비용을)",
+        "ex-kor" : "각자가 모두 자기 몫을 따로 내겠다고 했지만, 내가 다 냈다.",
+        "ex-eng" : "Everybody insisted on going Dutch, but I took care of the tab."
+    },
+
+    "boil down" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "b",
+        "mean" : "간추리다",
+        "ex-kor" : "시간이 거의 다 되어갑니다. 견해를 요약해서 말씀해 주십시오.",
+        "ex-eng" : "Our time is running out. Please boil down your view on this subject."
+    },
+
+    "split with" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "s",
+        "mean" : "갈라서다",
+        "ex-kor" : "그는 7년간 결혼 생활을 해온 그의 아내와 갈라섰다.",
+        "ex-eng" : "He split with his wife of seven years of marriage."
+    },
+
+    "ring a bell" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "r",
+        "mean" : "감이 잡히게 하다",
+        "ex-kor" : "세탁소를 한다고 하던데, 혹시 생각이 나십니까?",
+        "ex-eng" : "He owns a laundry shop. Does that ring a bell?"
+    },
+
+    "vanish into thin air" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "v",
+        "mean" : "감쪽같이 사라지다",
+        "ex-kor" : "Lee를 못 본 지 2년이나 됐네. 그야말로 감쪽같이 사라진 것 같아.",
+        "ex-eng" : "I haven't seen Lee for two years. He seems to have just vanished into thin air."
+    }
 
 }
