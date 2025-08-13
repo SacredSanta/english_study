@@ -136,13 +136,20 @@
         "ex-eng" : "They all raised their glasses, and the host said, (Bottoms up!)"
     },
     
-"couch potato" : {
+    "couch potato" : {
         "class-kor" : "ㄱ",
         "class-eng" : "c",
         "mean" : "게으른 사람(TV만 보는)",
         "ex-kor" : "TV에 미친 사람에게 주는 상이 있다면, 내 남편이 타게 될 거야.",
         "ex-eng" : "If there were a prize for the best couch potato, my husband would win it."
+    },
+    
+    "fire up" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "f",
+        "mean" : "격려하다",
+        "ex-kor" : "코치는 시합 전에 팀을 격려했다.",
+        "ex-eng" : "The coach fired the team up before the game."
     }
-
 
 }
