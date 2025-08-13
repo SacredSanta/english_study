@@ -266,5 +266,147 @@
         "mean" : "고참",
         "ex-kor" : "Johnson은 이 회사의 고참이다.",
         "ex-eng" : "Johnson is an old-timer in this company."
+    },
+      
+    "bite the bullet" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "b",
+        "mean" : "고통을 견디다",
+        "ex-kor" : "결혼한다고 들었어. 언제 그런 각오를 했어?",
+        "ex-eng" : "I hear you're getting married. When did you decide to bite the bullet?"
+    },
+
+    "get credit for" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "g",
+        "mean" : "공로를 인정받다",
+        "ex-kor" : "그는 한 번도 그 공을 인정받은 일이 없다.",
+        "ex-eng" : "He's never gotten credit for that."
+    },
+      
+    "hit the books" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "h",
+        "mean" : "열심히 공부하다",
+        "ex-kor" : "집에 가서 공부해야겠다.",
+        "ex-eng" : "I've got to go home, and hit the books."
+    },
+      
+    "lose sleep over" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "l",
+        "mean" : "공연히 고민하다",
+        "ex-kor" : "투자한 것에 대해 공연히 고민하지 마라",
+        "ex-eng" : "Don't lose any sleep over your investments."
+    },
+      
+    "freebie" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "f",
+        "mean" : "공짜",
+        "ex-kor" : "커피나 청량음료는 무료입니다.",
+        "ex-eng" : "Coffee and soft drinks are complimentary."
+    },
+
+    "pampering" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "p",
+        "mean" : "과보호",
+        "ex-kor" : "아이를 너무 응석받이로 기르고 있군요.",
+        "ex-eng" : "I'm afraid you're pampering your children."
+    },
+
+    "be in the doghouse" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "b",
+        "mean" : "관계가 서먹서먹하다",
+        "ex-kor" : "어제 아내의 생일을 잊었기 때문에 아내와 사이가 서먹서먹해졌다.",
+        "ex-eng" : "I'm in the doghouse with my wife for forgetting her birthday yesterday."
+    },
+      
+    "give weight" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "g",
+        "mean" : "관록을 붙이다",
+        "ex-kor" : "자네 직함을 적어 넣게. 무게가 있어 보일 테니.",
+        "ex-eng" : "Why don't you use your official title? It'll give a little more weight."
+    },
+
+    "bite head off" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "b",
+        "mean" : "괜한 사람에게 화내다",
+        "ex-kor" : "그 친구 오늘 좀 이상하지 않아? 그냥 아침 인사를 했을 뿐인데 막 대들지 뭐야.",
+        "ex-eng" : "What's eating him today? I only said good morning and he almost bit my head off."
+    },
+
+    "just saying that" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "j",
+        "mean" : "괜히 말로만",
+        "ex-kor" : "괜히 하시는 말이지요?",
+        "ex-eng" : "You're just saying that."
+    },
+
+    "whopping" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "w",
+        "mean" : "굉장한",
+        "ex-kor" : "그건 굉장한 뻥이군!",
+        "ex-eng" : "A whopper!"
+    },
+
+    "mom-and-pop store" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "m",
+        "mean" : "구멍가게",
+        "ex-kor" : "그는 뉴욕에서 조그만 캔디 가게를 하고 있다.",
+        "ex-eng" : "He owns a mom-and-pop candy store in New York."
+    },
+      
+    "nauseating" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "n",
+        "mean" : "구역질나게 하는",
+        "ex-kor" : "구역질나!",
+        "ex-eng" : "Nauseating!"
+    },
+      
+    "obnoxious" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "o",
+        "mean" : "(배알 꼴릴 정도로)기분 나쁘게 하는 것",
+        "ex-kor" : "어찌나 그 여자가 못되게 구는지 죽이고 싶었어.",
+        "ex-eng" : "She was so obnoxious I could almost kill her."
+    },
+
+    "just like that" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "j",
+        "mean" : "군말 없이",
+        "ex-kor" : "그렇게 간단히 저를 써 주시는 겁니까?",
+        "ex-eng" : "You put me on just like that?"
+    },
+      
+
+
+
+
+
+
+    "bring up" : {
+        "class-kor" : "ㅌ",
+        "class-eng" : "b",
+        "mean" : "토하다",
+        "ex-kor" : "난 방금 토했어.",
+        "ex-eng" : "I just brought it up."
+    },
+
+    "lose it" : {
+        "class-kor" : "ㅌ",
+        "class-eng" : "l",
+        "mean" : "토하다",
+        "ex-kor" : "곧 토할 것 같아!",
+        "ex-eng" : "I think I am going to lose it!"
     }
 }
