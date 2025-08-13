@@ -234,5 +234,37 @@
         "mean" : "고상한 (불어로써 쉬이크라고 발음, 여자에게만 씀)",
         "ex-kor" : "그 여자보다 더 옷을 고상하게 입는 여자를 본 일이 없다.",
         "ex-eng" : "I've never seen anyone chicquer than she is."
-    }
+    },
+
+    "oversight" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "o",
+        "mean" : "고의가 아닌 실수",
+        "ex-kor" : "그 정부 고위관리는 개인 심부름을 시키기 위해 관용차를 사용하라고 한 것은 고의는 아니지만 자기의 실수라고 시인했다.",
+        "ex-eng" : "The high-ranking government official admitted that the use of government vehicle for personal errands was an oversight on his part."
+    },
+
+    "tell on" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "t",
+        "mean" : "고자질하다",
+        "ex-kor" : "경찰관 사이에서는 동료의 잘못을 고자질하지 않는 것이 불문율로 되어 있다.",
+        "ex-eng" : "Among police officers it is an unwritten rule not to tell on colleagues."
+    },
+
+    "one's stereotype" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "s",
+        "mean" : "고정관념",
+        "ex-kor" : "대부분의 경제학자는 고정관념에 사로잡혀서, 70년대 초에 일어난 스태그플레이션을 설명하지 못했다.",
+        "ex-eng" : "Trapped by their stereotypes most economists could not explain the stagflation of the early seventies."
+    },
+
+    "old timer" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "o",
+        "mean" : "고참",
+        "ex-kor" : "Johnson은 이 회사의 고참이다.",
+        "ex-eng" : "Johnson is an old-timer in this company."
+    },
 }
