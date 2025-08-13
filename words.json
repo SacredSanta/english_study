@@ -75,9 +75,13 @@
         "class-kor" : "ㄱ",
         "class-eng" : "h",
         "mean" : "감히 ~ 하다",
-        "ex-kor" : "",
-        "ex-eng" : ""
+        "ex-kor" : "자네가 감히 나에게 일하는 방법을 가르치겠다는 건가?",
+        "ex-eng" : "You mean you have the nerve to tell me how to do my job?"
     },
+
+
+
+
 
     "in the same boat" : {
         "class-kor" : "ㄱ",
@@ -150,6 +154,85 @@
         "mean" : "격려하다",
         "ex-kor" : "코치는 시합 전에 팀을 격려했다.",
         "ex-eng" : "The coach fired the team up before the game."
-    }
+    },
 
+    "add up to something" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "a",
+        "mean" : "결국은 ~라는 얘기야",
+        "ex-kor" : "아무리 생각해보아도, 결국 그의 얘기는 순전히 거짓말이라는 거야.",
+        "ex-eng" : "No matter how you slice it, his story adds up to a pack up lies."
+    },
+    
+    "lemon" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "l",
+        "mean" : "결함 있는 자동차",
+        "ex-kor" : "그가 시내 딜러에게서 산 자동차는 알고 보니 결함 있는 자동차였다.",
+        "ex-eng" : "The car he bought from the downtown dealer turned out to be a lemon."
+    },
+
+    "get off with a warning" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "g",
+        "mean" : "경고로 끝나다",
+        "ex-kor" : "그 영화배우는 속도위반으로 잡혔으나, 경고만 받고 처벌을 면했다.",
+        "ex-eng" : "The movie actor got caught speeding, but got off with a warning."
+    },
+
+    "out of hand" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "o",
+        "mean" : "경솔하게",
+        "ex-kor" : "그건 내가 경솔하게 대답해줄 수가 없어.",
+        "ex-eng" : "I can't answer that out of hand."
+    },
+
+    "phenomenal" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "p",
+        "mean" : "경이적인",
+        "ex-kor" : "그간 우리 노력의 결과는 참으로 괄목할 만하다.",
+        "ex-eng" : "The upshot of all our efforts is really phenomenal."
+    },
+
+    "econ" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "e",
+        "mean" : "경제학(학생들의 은어)",
+        "ex-kor" : "다른 과목은 괜찮은데, 경제학은 질색이다.",
+        "ex-eng" : "I don't mind other subjects, but I hate econ."
+    },
+      
+    "educated guess" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "e",
+        "mean" : "경험에 의한 추측",
+        "ex-kor" : "내 경험에 의한 추측인데, 그런 차에 대한 보험료는 500달러는 넘을 거야.",
+        "ex-eng" : "My educated guess is that insurance for a car of that sort would easily run over five hundred dollars."
+    },
+
+    "stick around" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "s",
+        "mean" : "곁에서 기다리다",
+        "ex-kor" : "좀 더 근처에 있어보면, 곧 자리가 날거야.",
+        "ex-eng" : "I think if you'll stick around, you'll get a seat sooner or later."
+    },
+
+    "weather the storm" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "w",
+        "mean" : "고난을 극복하다",
+        "ex-kor" : "많은 회사들이 풍랑을 견뎌내지 못했다.",
+        "ex-eng" : "Many companies failed to weather the storm."
+    },
+      
+    "chic" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "c",
+        "mean" : "고상한 (불어로써 쉬이크라고 발음, 여자에게만 씀)",
+        "ex-kor" : "그 여자보다 더 옷을 고상하게 입는 여자를 본 일이 없다.",
+        "ex-eng" : "I've never seen anyone chicquer than she is."
+    }
 }
