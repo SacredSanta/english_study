@@ -388,6 +388,85 @@
         "ex-eng" : "You put me on just like that?"
     },
       
+    "be in hot water" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "b",
+        "mean" : "궁지에 빠지다",
+        "ex-kor" : "그는 정말 궁지에 몰렸어.",
+        "ex-eng" : "He's really in hot water."
+    },
+
+    "get sick and tired of hearing" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "g",
+        "mean" : "귀가 따갑도록 듣다",
+        "ex-kor" : "월급이 적다는 그의 불평을 귀가 따갑도록 들었다.",
+        "ex-eng" : "I got sick and tired of hearing him complaining about salary."
+    },
+
+    "gullible" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "g",
+        "mean" : "귀가 여린",
+        "ex-kor" : "여자들은 귀가 여려 잘 속는다.",
+        "ex-eng" : "Women are so gullible and easily fooled."
+    },
+
+    "on one's good side" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "o",
+        "mean" : "귀여움을 받는",
+        "ex-kor" : "그는 사장님의 신임을 받고 있지.",
+        "ex-eng" : "He's on the boss's good side."
+    },
+
+    "pain in the neck" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "p",
+        "mean" : "귀찮은 사람(일)",
+        "ex-kor" : "이 차는 정말 사람을 화나게 하는군.",
+        "ex-eng" : "This car is a real pain in the neck."
+    },
+
+    "the do's and don't's" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "t",
+        "mean" : "규칙",
+        "ex-kor" : "사규의 상당 부분이 내게도 별로 의미가 없다고 생각해.",
+        "ex-eng" : "I must admit that a lot of the do's and don't's don't make much sense to me, either."
+    },
+
+    "How does that go?" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "h",
+        "mean" : "그 노래 어떻게 나가지(진행되지)?",
+        "ex-kor" : "노래를 정확히 부를 줄 몰라요.",
+        "ex-eng" : "I can't carry a tune."
+    },
+
+    "I'll drink to that" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "I",
+        "mean" : "그거 좋죠.",
+        "ex-kor" : "그거 좋죠.",
+        "ex-eng" : "I'll drink to that."
+    },
+
+    "company time" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "c",
+        "mean" : "근무시간",
+        "ex-kor" : "He got fired playing chess on company time.",
+        "ex-eng" : "그는 근무시간에 체스를 두다가 내쫓겼다."
+    },
+
+    "any time soon" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "a",
+        "mean" : "금세",
+        "ex-kor" : "비가 금세 멎을 것 같지 않아.",
+        "ex-eng" : "The rain is not going to stop any time soon."
+    },
 
 
 
