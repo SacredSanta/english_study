@@ -467,6 +467,38 @@
         "ex-kor" : "비가 금세 멎을 것 같지 않아.",
         "ex-eng" : "The rain is not going to stop any time soon."
     },
+    
+    "put a person on hold" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "p",
+        "mean" : "기다리게 하다",
+        "ex-kor" : "교환수는 나를 잠시 기다리게 하고, 손님을 찾는 동안 음악을 틀어줬다.",
+        "ex-eng" : "The operator put me on hold, and played music while paging the guest."
+    },
+
+    "unwind" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "u",
+        "mean" : "기분을 풀다(피곤한)",
+        "ex-kor" : "어디 가서 한잔하며 기분 좀 풀까?",
+        "ex-eng" : "Shall we go somewhere for a few drinks to unwind?"
+    },
+    
+    "die down" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "d",
+        "mean" : "기세가 누그러지다",
+        "ex-kor" : "전쟁이 일어날 것이라는 세상 사람들의 말이 결국에는 수그러질 것이다.",
+        "ex-eng" : "All this talk about war will eventually die out."
+    },
+
+    "change the baby" : {
+        "class-kor" : "ㄱ",
+        "class-eng" : "c",
+        "mean" : "기저귀를 갈다",
+        "ex-kor" : "나는 아기 기저귀를 갈 거에요. 당신도 옷 갈아입지 않겠어요?",
+        "ex-eng" : "I'm going to change the baby. Won't you change?"
+    },
 
 
 
